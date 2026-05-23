@@ -1,1 +1,3 @@
 # Medicine-Reminder-Application
+This project is developed to create a Medicine Reminder Application using Java with a graphical user interface (GUI) executable in NetBeans and Visual Studio Code. The application helps users store and manage medicine details such as medicine name, quantity, expiry date, and medicine timing through a simple menu-driven system. 
+The project is suitable for beginners who want to practice Java concepts including object-oriented programming, ArrayList handling, conditions, loops, authentication systems, GUI design, and user interaction. The application focuses on organized medicine management, smooth functionality, and easy navigation without using any database.
